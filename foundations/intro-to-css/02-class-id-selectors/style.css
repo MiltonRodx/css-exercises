@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {      /*Class named odd*/
+    background-color: lightcoral;
+    font-family:Verdana, "DejaVu Sans", sans-serif;  
+}
+
+#id_2 { /*Done*/
+    color: blue;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#id_4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}

@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    display: grid;
+    place-items: center;
+    color: white;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+
+p {
+    size: 1;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    height: 300;
+}
+
+button {
+    font-size: 12px;
+    padding: 4px 12px;
+    background-color: orange;
+}

@@ -53,25 +53,19 @@ ul {
 .header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  padding: 8px;
 }
 
-.container1 {
+.container1, .container2 {
+  margin: 8px;
+  gap: 16px;
   align-items: center;
-  margin: 8px;
-  gap: 16px;
   display: flex;
-}
-
-.container2 {
-  display: flex;
-  gap: 16px;
-  margin: 8px;
 }
 
 ul {
   display: flex;
-  gap: 8px;
+  gap: 16px;
   margin: 0;
   padding: 0;
 }
